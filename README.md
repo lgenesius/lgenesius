@@ -6,7 +6,7 @@ I am a computer science student who has a passion for creating and developing pr
 [<img align="left" alt="LinkedIn" width="26px" src="assets/linkedin.png" />](https://www.linkedin.com/in/luis-genesius-4435a0171/)
 [<img align="left" alt="Telegram" width="26px" src="assets/telegram.png" />](https://t.me/lgenesius)
 [<img align="left" alt="Whatsapp" width="26px" src="assets/whatsapp.png" />](http://wa.me/6282153795325)
-[<img align="left" alt="Gmail" width="26px" src="assets/gmail.png" />](mailto:luis.huang321@gmail.com)<br>
+[<img align="left" alt="Gmail" width="26px" src="assets/gmail.png" />](mailto:luis.huang321@gmail.com)<br><br>
 
 ### Know More About Me :smiley:
 - 🔭 I’m currently working on Laravel and Java project
