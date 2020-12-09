@@ -3,6 +3,7 @@
 I am a computer science student who has a passion for creating and developing programs. I spend most of my :clock1: to code projects and watching tutorials.
 
 :mailbox: Reach me out!
+<a href="https://www.linkedin.com/in/luis-genesius-4435a0171/"><img src="assets/linkedin.png"></a>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
