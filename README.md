@@ -4,8 +4,6 @@ I am a computer science student who has a passion for creating and developing pr
 
 ### Reach me out! :mailbox:
 [<img align="left" alt="LinkedIn" width="26px" src="assets/linkedin.png" title="LinkedIn: Luis Genesius"/>](https://www.linkedin.com/in/luis-genesius-4435a0171/)
-[<img align="left" alt="Telegram" width="26px" src="assets/telegram.png" title="Telegram: lgenesius"/>](https://t.me/lgenesius)
-[<img align="left" alt="Whatsapp" width="26px" src="assets/whatsapp.png" title="WA: (+62)82153795325"/>](http://wa.me/6282153795325)
 [<img align="left" alt="Gmail" width="26px" src="assets/gmail.png" title="Email: luis.huang321@gmail.com"/>](mailto:luis.huang321@gmail.com)<br><br>
 
 ### Know More About Me :smiley:
