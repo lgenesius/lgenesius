@@ -12,3 +12,10 @@ I am a computer science student who has a passion for creating and developing pr
 - 👯 I’m looking to collaborate on mobile projects
 - 📫 How to reach me: [luis.huang321@gmail.com](mailto:luis.huang321@gmail.com)
 - ⚡ Fun fact: Stir fried vegetables is my favorite food!
+<br> <br>
+<details>
+  <summary>
+    :zap: Github Stats
+  </summary>
+  <img align="left" alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lgenesius&show_icons=true&hide_border=true" />
+</details>
