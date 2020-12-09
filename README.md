@@ -17,5 +17,5 @@ I am a computer science student who has a passion for creating and developing pr
   <summary>
     :zap: Github Stats
   </summary>
-  <img align="left" alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lgenesius&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lgenesius&show_icons=true&hide_border=true" />
 </details>
