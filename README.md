@@ -1,4 +1,4 @@
-### Hola! I'm [Luis Genesius](https://lgenesius.github.io/portfolio-v2/) 👋 😃
+### Hola, I am [Luis Genesius!](https://lgenesius.github.io/portfolio-v2/) 👋 😃
 
 <!--
 **lgenesius/lgenesius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
