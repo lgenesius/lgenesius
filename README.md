@@ -4,10 +4,10 @@ I am a computer science student who has a passion for creating and developing pr
 
 :mailbox: Reach me out! <br> <br>
 
-[<img align="left" alt="LinkedIn" width="26px" src="assets/linkedin.png" />][linkedin]
-[<img align="left" alt="Telegram" width="26px" src="assets/telegram.png" />][telegram]
-[<img align="left" alt="Whatsapp" width="26px" src="assets/whatsapp.png" />][whatsapp]
-[<img align="left" alt="Gmail" width="26px" src="assets/gmail.png" />][gmail]
+[<img align="left" alt="LinkedIn" width="26px" src="assets/linkedin.png" />](https://www.linkedin.com/in/luis-genesius-4435a0171/)
+[<img align="left" alt="Telegram" width="26px" src="assets/telegram.png" />](https://t.me/lgenesius)
+[<img align="left" alt="Whatsapp" width="26px" src="assets/whatsapp.png" />](http://wa.me/6282153795325)
+[<img align="left" alt="Gmail" width="26px" src="assets/gmail.png" />](mailto:luis.huang321@gmail.com)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,9 +17,3 @@ I am a computer science student who has a passion for creating and developing pr
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-[linkedin]: https://www.linkedin.com/in/luis-genesius-4435a0171/
-[telegram]: https://t.me/lgenesius
-[whatsapp]: http://wa.me/6282153795325
-[gmail]: mailto:luis.huang321@gmail.com
