@@ -14,19 +14,19 @@ I am a computer science student who has a passion for creating and developing pr
 <br><br>
 <details>
   <summary>
-    :computer: Technologies<br>
+    :computer: <strong>Technologies</strong><br>
   </summary>
   <p></p>
-Programming Languages :book:<br>
+  <b>Programming Languages</b> :book:<br>
   <p></p>
 <img align="left" alt="C" width="26px" src="assets/c.png" title="C"/> <img align="left" alt="C#" width="26px" src="assets/csharp.png" title="C#"/> <br><br>
-Web Development 🌐<br>
+  <b>Web Development</b> 🌐<br>
   <p></p>
 <img align="left" alt="HTML" width="26px" src="assets/html.png" title="HTML"/> <img align="left" alt="CSS" width="26px" src="assets/css.png" title="CSS"/> <img align="left" alt="Javascript" width="26px" src="assets/javascript.png" title="Javascript"/> <img align="left" alt="PHP" width="26px" src="assets/php.png" title="PHP"/> <img align="left" alt="Laravel" width="26px" src="assets/laravel.webp" title="Laravel"/> <img align="left" alt="ASP.NET" width="26px" src="assets/asp.png" title="ASP.NET"/> <br><br>
-Mobile Development :iphone:<br>
+  <b>Mobile Development</b> :iphone:<br>
   <p></p>
 <img align="left" alt="Android Studio" width="26px" src="assets/androidstudio.png" title="Android Studio"/> <img align="left" alt="Java" width="26px" src="assets/java.png" title="Java"/> <br><br>
-DBMS :floppy_disk:<br>
+  <b>DBMS</b> :floppy_disk:<br>
 <p></p>
 <img align="left" alt="MySQL" width="35px" src="assets/mysql.webp" title="MySQL"/> <img align="left" alt="PostgreSQL" width="26px" src="assets/postgre.webp" title="PostgreSQL"/> <img align="left" alt="SQL Server" width="35px" src="assets/sqlserver.webp" title="SQL Server"/> <img align="left" alt="Firebase" width="24px" src="assets/firebase.png" title="Firebase"/>
 <br> <br>
@@ -34,7 +34,7 @@ DBMS :floppy_disk:<br>
 
 <details>
   <summary>
-    :zap: Github Stats & Most Used Languages
+    :zap: <strong>Github Stats & Most Used Languages</strong>
   </summary>
   <img align="left" alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lgenesius&show_icons=true&hide_border=true" /> <img align="left" alt="Luis's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgenesius&layout=compact" />
   <br> <br>
