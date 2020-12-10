@@ -34,7 +34,8 @@ DBMS :floppy_disk:<br>
 
 <details>
   <summary>
-    :zap: Github Stats
+    :zap: Github Stats & Most Used Languages
   </summary>
-  <img align="left" alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lgenesius&show_icons=true&hide_border=true" />
+  <img align="left" alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lgenesius&show_icons=true&hide_border=true" /> <img align="left" alt="Luis's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgenesius&layout=compact" />
+  <br> <br>
 </details>
