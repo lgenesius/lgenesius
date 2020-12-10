@@ -13,8 +13,15 @@ I am a computer science student who has a passion for creating and developing pr
 - ⚡ Fun fact: I :heart: photography, especially landscape photography! :camera:
 <br><br>
 
-### Programming Languages, Frameworks and Tools :computer:
-<img align="left" alt="C" width="26px" src="assets/c.png" title="C"/> <img align="left" alt="C#" width="26px" src="assets/csharp.png" title="C#"/> <img align="left" alt="Java" width="26px" src="assets/java.png" title="Java"/> <img align="left" alt="PHP" width="26px" src="assets/php.png" title="PHP"/> <img align="left" alt="Javascript" width="26px" src="assets/javascript.png" title="Javascript"/> <img align="left" alt="HTML" width="26px" src="assets/html.png" title="HTML"/> <img align="left" alt="CSS" width="26px" src="assets/css.png" title="CSS"/> <img align="left" alt="MySQL" width="35px" src="assets/mysql.webp" title="MySQL"/> <img align="left" alt="PostgreSQL" width="26px" src="assets/postgre.webp" title="PostgreSQL"/> <img align="left" alt="SQL Server" width="35px" src="assets/sqlserver.webp" title="SQL Server"/> <img align="left" alt="Laravel" width="26px" src="assets/laravel.webp" title="Laravel"/> <img align="left" alt="Android Studio" width="26px" src="assets/androidstudio.png" title="Android Studio"/>
+### Technologies :computer:
+#### Programming Languages
+<img align="left" alt="C" width="26px" src="assets/c.png" title="C"/> <img align="left" alt="C#" width="26px" src="assets/csharp.png" title="C#"/> <img align="left" alt="Java" width="26px" src="assets/java.png" title="Java"/> <img align="left" alt="PHP" width="26px" src="assets/php.png" title="PHP"/> <img align="left" alt="Javascript" width="26px" src="assets/javascript.png" title="Javascript"/> <br>
+#### Web Development
+<img align="left" alt="HTML" width="26px" src="assets/html.png" title="HTML"/> <img align="left" alt="CSS" width="26px" src="assets/css.png" title="CSS"/> <img align="left" alt="Javascript" width="26px" src="assets/javascript.png" title="Javascript"/> <img align="left" alt="PHP" width="26px" src="assets/php.png" title="PHP"/> <img align="left" alt="Laravel" width="26px" src="assets/laravel.webp" title="Laravel"/> <br>
+#### Mobile Development
+<img align="left" alt="Android Studio" width="26px" src="assets/androidstudio.png" title="Android Studio"/> <img align="left" alt="Java" width="26px" src="assets/java.png" title="Java"/> <br>
+#### DBMS
+<img align="left" alt="MySQL" width="35px" src="assets/mysql.webp" title="MySQL"/> <img align="left" alt="PostgreSQL" width="26px" src="assets/postgre.webp" title="PostgreSQL"/> <img align="left" alt="SQL Server" width="35px" src="assets/sqlserver.webp" title="SQL Server"/>
 <br> <br>
 
 <details>
