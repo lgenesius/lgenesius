@@ -12,17 +12,25 @@ I am a computer science student who has a passion for creating and developing pr
 - 📫 How to reach me: [luis.huang321@gmail.com](mailto:luis.huang321@gmail.com)
 - ⚡ Fun fact: I :heart: photography, especially landscape photography! :camera:
 <br><br>
-
-### Technologies :computer:
-#### Programming Languages
-<img align="left" alt="C" width="26px" src="assets/c.png" title="C"/> <img align="left" alt="C#" width="26px" src="assets/csharp.png" title="C#"/> <br>
-#### Web Development
-<img align="left" alt="HTML" width="26px" src="assets/html.png" title="HTML"/> <img align="left" alt="CSS" width="26px" src="assets/css.png" title="CSS"/> <img align="left" alt="Javascript" width="26px" src="assets/javascript.png" title="Javascript"/> <img align="left" alt="PHP" width="26px" src="assets/php.png" title="PHP"/> <img align="left" alt="Laravel" width="26px" src="assets/laravel.webp" title="Laravel"/> <img align="left" alt="ASP.NET" width="26px" src="assets/asp.png" title="ASP.NET"/> <br>
-#### Mobile Development
-<img align="left" alt="Android Studio" width="26px" src="assets/androidstudio.png" title="Android Studio"/> <img align="left" alt="Java" width="26px" src="assets/java.png" title="Java"/> <br>
-#### DBMS
-<img align="left" alt="MySQL" width="35px" src="assets/mysql.webp" title="MySQL"/> <img align="left" alt="PostgreSQL" width="26px" src="assets/postgre.webp" title="PostgreSQL"/> <img align="left" alt="SQL Server" width="35px" src="assets/sqlserver.webp" title="SQL Server"/>
+<details>
+  <summary>
+    :computer: Technologies<br>
+  </summary>
+  <p></p>
+Programming Languages :book:<br>
+  <p></p>
+<img align="left" alt="C" width="26px" src="assets/c.png" title="C"/> <img align="left" alt="C#" width="26px" src="assets/csharp.png" title="C#"/> <br><br>
+Web Development 🌐<br>
+  <p></p>
+<img align="left" alt="HTML" width="26px" src="assets/html.png" title="HTML"/> <img align="left" alt="CSS" width="26px" src="assets/css.png" title="CSS"/> <img align="left" alt="Javascript" width="26px" src="assets/javascript.png" title="Javascript"/> <img align="left" alt="PHP" width="26px" src="assets/php.png" title="PHP"/> <img align="left" alt="Laravel" width="26px" src="assets/laravel.webp" title="Laravel"/> <img align="left" alt="ASP.NET" width="26px" src="assets/asp.png" title="ASP.NET"/> <br><br>
+Mobile Development :iphone:<br>
+  <p></p>
+<img align="left" alt="Android Studio" width="26px" src="assets/androidstudio.png" title="Android Studio"/> <img align="left" alt="Java" width="26px" src="assets/java.png" title="Java"/> <br><br>
+DBMS :floppy_disk:<br>
+<p></p>
+<img align="left" alt="MySQL" width="35px" src="assets/mysql.webp" title="MySQL"/> <img align="left" alt="PostgreSQL" width="26px" src="assets/postgre.webp" title="PostgreSQL"/> <img align="left" alt="SQL Server" width="35px" src="assets/sqlserver.webp" title="SQL Server"/> <img align="left" alt="Firebase" width="24px" src="assets/firebase.png" title="Firebase"/>
 <br> <br>
+</details>
 
 <details>
   <summary>
