@@ -6,7 +6,7 @@ I am a computer science student who has a passion for creating and developing pr
 [<img align="left" alt="Gmail" width="26px" src="assets/gmail.png" title="Email: luis.huang321@gmail.com"/>](mailto:luis.huang321@gmail.com)<br><br>
 
 ### Know More About Me :smiley:
-- 🔭 I’m currently working on Java project
+- 🔭 I’m currently refactoring on my Java project
 - 🌱 I’m currently learning mobile development with Android Studio
 - 👯 I’m looking to collaborate on mobile projects :iphone:
 - 📫 How to reach me: [luis.huang321@gmail.com](mailto:luis.huang321@gmail.com)
