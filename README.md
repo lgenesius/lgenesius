@@ -2,7 +2,7 @@
 I am an iOS Software Engineer who have a passion to develop impactful iOS app that can bring positive impact to the society. I spend most of my :clock1: to code projects, improving my iOS development skills and learn new knowledge :grin:
 <br>
 ### Reach me out! :mailbox:
-[<img align="left" alt="LinkedIn" width="26px" src="assets/linkedin.png" title="LinkedIn: Luis Genesius"/>](https://www.linkedin.com/in/luis-genesius-4435a0171/)
+[<img align="left" alt="LinkedIn" width="26px" src="assets/linkedin.png" title="LinkedIn: Luis Genesius"/>](https://www.linkedin.com/in/luisgenesius/)
 [<img align="left" alt="Gmail" width="26px" src="assets/gmail.png" title="Email: luis.huang321@gmail.com"/>](mailto:luis.huang321@gmail.com)<br><br>
 
 ### Know More About Me :smiley:
