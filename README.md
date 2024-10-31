@@ -4,10 +4,3 @@ I am an iOS Software Engineer who have a passion to develop impactful iOS app th
 ### Reach me out! :mailbox:
 [<img align="left" alt="LinkedIn" width="26px" src="assets/linkedin.png" title="LinkedIn: Luis Genesius"/>](https://www.linkedin.com/in/luisgenesius/)
 [<img align="left" alt="Gmail" width="26px" src="assets/gmail.png" title="Email: luis.huang321@gmail.com"/>](mailto:luis.huang321@gmail.com)<br><br>
-
-### Know More About Me :smiley:
-- 🔭 I’m currently practice my problem solving skill in Swift
-- 🌱 I’m currently learning mobile development with Swift
-- 👯 I’m looking to collaborate on mobile projects :iphone:
-- 📫 How to reach me: [luis.huang321@gmail.com](mailto:luis.huang321@gmail.com)
-- ⚡ Fun fact: I :heart: photography, especially landscape photography! :camera:
